@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/x7iskamf620qn714?svg=true)](https://ci.appveyor.com/project/vapanov/ra-router-menu)
+[![Build status](https://ci.appveyor.com/api/projects/status/4mntshcy3pmne8s0?svg=true)](https://ci.appveyor.com/project/Anna7682/ra-router-menu)
 
-WEB VERSION https://valentin-panov.github.io/ra-router-menu/
+WEB VERSION https://anna7682.github.io/ra-router-menu/
 
 # Навигационное меню
 
